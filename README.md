@@ -72,4 +72,4 @@ O portfólio é organizado nas seguintes seções:
 
 1. **Clone este repositório** (ou faça download do arquivo `.html`):
    ```bash
-   git clone https://github.com/seu-usuario/portfolio-leirgab.git
+   git clone https://github.com/seu-usuario/Portfolio-DesignSystem.git
