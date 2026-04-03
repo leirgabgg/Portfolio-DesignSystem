@@ -2,13 +2,25 @@
 
 Portfólio pessoal e profissional do desenvolvedor fullstack **Gabriel Marques (Leirgab)**.  
 O site apresenta suas habilidades, projetos, experiência e canal de contato, com uma identidade visual moderna e interações sofisticadas.
+ 
+<div align="center">
+  <a href="https://leirgabgg.github.io/Portfolio-DesignSystem/" target="_blank">
+    <img 
+      width="300" 
+      height="300" 
+      alt="Leirgab Profile Image" 
+      src="https://github.com/user-attachments/assets/eeb36648-ff2b-4dc3-aad1-0396692dc967"
+      style="transition: all 0.4s cubic-bezier(0.2, 0.9, 0.4, 1.1); border-radius: 24px; cursor: pointer;"
+      onmouseover="this.style.transform='scale(1.08) rotate(2deg)'; this.style.boxShadow='0 30px 45px -15px rgba(0,0,0,0.5), 0 0 0 4px rgba(220,87,31,0.7), 0 0 0 8px rgba(100,59,157,0.3)'; this.style.filter='brightness(1.05) contrast(1.08)';"
+      onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='none'; this.style.filter='brightness(1) contrast(1)';"
+    />
+  </a>
+</div>
 
-![Preview do site](https://via.placeholder.com/1200x600?text=Leirgab.dev+Preview)  
-*(Substitua pela imagem real do projeto, se desejar)*
 
 ## 🔗 Acesse online
 
-> Se o projeto estiver hospedado, insira o link aqui.
+> [Meu Portfólio](https://leirgabgg.github.io/Portfolio-DesignSystem/)
 
 ## 📌 Sobre o projeto
 
